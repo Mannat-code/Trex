@@ -1,2 +1,2 @@
-# Trex
-Chrome's trex game using p5.play
+# Monkey runner game
+Monkey runner game using p5.play
